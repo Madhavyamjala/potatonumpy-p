@@ -23,8 +23,8 @@ license-files = ["LICEN[CS]E*"]
 keywords = ["linear-algebra", "tensor", "educational", "pure-python"]
 
 [project.urls]
-Homepage = "https://github.com/Madhavyamjala/potatonumpy"
-Issues = "https://github.com/Madhavyamjala/potatonumpy/issues"
+Homepage = "https://github.com/Madhavyamjala/potatonumpy-p"
+Issues = "https://github.com/Madhavyamjala/potatonumpy-p/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -1,0 +1,15 @@
+{
+  "title": "PotatoNumPy",
+  "summary": "A pure-Python linear algebra and tensor library built from scratch, with no dependencies, to show exactly what NumPy's compiled internals buy you.",
+  "highlights": [
+    "N-dimensional arrays, matrix ops, inverse, determinant and tensor reductions",
+    "100 unit tests and CI on GitHub Actions",
+    "Published on PyPI via trusted publishing",
+    "Benchmarks against NumPy with an explanation of each speed gap"
+  ],
+  "tags": ["Python", "Linear Algebra", "PyPI"],
+  "section": "both",
+  "folder": "Software Engineering",
+  "links": [{ "label": "PyPI", "url": "https://pypi.org/project/potatonumpy/" }],
+  "order": 3
+}

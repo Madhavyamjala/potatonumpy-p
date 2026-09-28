@@ -2,7 +2,6 @@
 
 A pure Python linear algebra and tensor library built entirely from scratch. No NumPy, no C extensions, no shortcuts — just potatoes all the way down.
 
-> It took me 3 weeks alone and 2 hours of Claude documentation refinement to make this.
 
 ## What is this?
 
@@ -23,8 +22,8 @@ pip install potatonumpy
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/Madhavyamjala/potatonumpy.git
-cd potatonumpy
+git clone https://github.com/Madhavyamjala/potatonumpy-p.git
+cd potatonumpy-p
 pip install -e .
 ```
 
@@ -170,7 +169,7 @@ Yeah. NumPy is *that* much faster. Here's why:
 python -m unittest discover tests -v
 ```
 
-99 tests (One Short 🥲) covering all operations, edge cases, and error conditions.
+100 tests covering all operations, edge cases, and error conditions.
 
 ## Project Structure
 
